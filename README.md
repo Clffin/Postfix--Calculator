@@ -56,20 +56,3 @@ Result: 20
    ```
 2. Open `index.html` in your browser to run the project.
 3. Modify `sketch.js` to extend functionality as needed.
-
-## **Contributing**
-Feel free to fork the repository and submit pull requests with enhancements and bug fixes.
-
-## **License**
-This project is open-source and available under the **MIT License**.
-
----
-This project demonstrates **basic compiler/interpreter design** concepts using **JavaScript and stack-based evaluation**. 🚀
-
-
-
-Feel free to fork the repository and submit pull requests with enhancements and bug fixes.
-
-License
-
-This project is open-source and available under the MIT License.
